@@ -1,0 +1,68 @@
+EdmondsKarp - k1 : 2
+EdmondsKarp - k2 : 5
+EdmondsKarp - k3 : 12
+EdmondsKarp - k4 : 25
+EdmondsKarp - k5 : 57
+EdmondsKarp - k6 : 240
+EdmondsKarp - k7 : 524
+EdmondsKarp - k8 : 351
+EdmondsKarp - k9 : 2229
+EdmondsKarp - k10 : 4145
+EdmondsKarp - k11 : 8908
+EdmondsKarp - k12 : 19471
+EdmondsKarp - k13 : 40123
+EdmondsKarp - k14 : 120128
+EdmondsKarp - k15 : 239383
+EdmondsKarp - k16 : 361911
+
+Dinic - k1 : 2
+Dinic - k2 : 5
+Dinic - k3 : 12
+Dinic - k4 : 25
+Dinic - k5 : 57
+Dinic - k6 : 240
+Dinic - k7 : 524
+Dinic - k8 : 351
+Dinic - k9 : 2229
+Dinic - k10 : 4145
+Dinic - k11 : 8908
+Dinic - k12 : 19471
+Dinic - k13 : 40123
+Dinic - k14 : 120128
+Dinic - k15 : 239383
+Dinic - k16 : 361911
+
+
+
+EdmondsKarp - k1 : 1.6f 0.8us 1p
+Dinic - k1 : 1.65f 0.7us 1p
+EdmondsKarp - k2 : 3.2f 1.85us 2p
+Dinic - k2 : 4.05f 1.2us 2p
+EdmondsKarp - k3 : 8.95f 2.75us 4.75p
+Dinic - k3 : 9.7f 2.05us 4.8p
+EdmondsKarp - k4 : 27.3f 57us 11.9p
+Dinic - k4 : 25.3f 7.1us 11.65p
+EdmondsKarp - k5 : 67.8f 30.8us 27.9p
+Dinic - k5 : 72.05f 10.15us 28p
+EdmondsKarp - k6 : 180.55f 460.1us 50.25p
+Dinic - k6 : 172.1f 21us 49.2p
+EdmondsKarp - k7 : 378.6f 477.65us 90.85p
+Dinic - k7 : 384.1f 33.8us 92.85p
+EdmondsKarp - k8 : 919.15f 2189us 154.85p
+Dinic - k8 : 859.45f 71.65us 147.75p
+EdmondsKarp - k9 : 2060.3f 7789.6us 279.9p
+Dinic - k9 : 2015.6f 145.9us 273.35p
+EdmondsKarp - k10 : 4667.65f 31964.1us 437.5p
+Dinic - k10 : 4462.6f 341.15us 415.15p
+EdmondsKarp - k11 : 10408.2f 116273us 747.75p
+Dinic - k11 : 10108.5f 818.5us 725.75p
+EdmondsKarp - k12 : 22750.3f 699618us 1141.9p
+Dinic - k12 : 22070f 2591.7us 1097.85p
+EdmondsKarp - k13 : 47405.3f 4.28322e+06us 1808.2p
+Dinic - k13 : 47943.6f 7350.5us 1824.15p
+EdmondsKarp - k14 : 107015f 1.79474e+07us 2752.4p
+Dinic - k14 : 103509f 17564.1us 2671.1p
+EdmondsKarp - k15 : 234689f 7.48433e+07us 4610p
+Dinic - k15 : 225841f 58400.7us 4441.7p
+EdmondsKarp - k16 : 490380f 2.37989e+08us 6481.85p
+Dinic - k16 : 452483f 107453us 5989.35p

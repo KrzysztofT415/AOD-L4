@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/krzysiek/files/sem5/aod/AOD-L4'
+rm -f edmonds test
+g++ -O3 -Wall -Wextra -std=c++17 -pedantic ./app/edmonds.cpp ./src/*.cpp -I./lib -I./inc -o edmonds
+make: Leaving directory '/home/krzysiek/files/sem5/aod/AOD-L4'
+ 
